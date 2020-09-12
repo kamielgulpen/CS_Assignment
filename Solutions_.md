@@ -11,7 +11,7 @@
     
 5. Create 1 plot from the dataset "istherecorrelation.csv", with DPI=300. The objective is to visualize the data as you see fit. Include the resulting image in the markdown file (and you can also write a few lines of interpretation if you like).
 
-![](CS_Assignment/CS_Assignment_capture.JPG)
+![](CS_Assignment_capture.JPG)
 
 6. Commit and push these two files to your fork.
 7. Create a pull request for me to this (original) repo. (Hint: you can use the "New pull request" button and then do a "compare across forks").
